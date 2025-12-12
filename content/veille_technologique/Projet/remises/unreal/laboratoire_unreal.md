@@ -1,5 +1,5 @@
 ---
-title: "Laboratoire Pratique : Construction d'une Galerie dans Unreal Engine 5"
+title: "Laboratoire : Construction d'une Galerie dans Unreal Engine 5"
 weight: 30
 ---
 
@@ -127,3 +127,6 @@ Nous allons utiliser les outils intégrés de l'éditeur pour créer les murs.
 4.  Cliquez sur **Sauvegarder Tout (Save All)**.
 ![4, 4, 1](/images/7.png)
 ---
+#### Correction de l'atelier
+**Lien Drive :**
+https://drive.google.com/file/d/1LNAGcyuj6mv6yPs0nljJTo8d6iRO-4yp/view
