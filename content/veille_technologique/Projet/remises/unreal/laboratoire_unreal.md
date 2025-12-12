@@ -5,9 +5,7 @@ weight: 30
 
 **Objectif Final :** Construire un espace intérieur fermé, l'éclairer avec une lumière ponctuelle, appliquer un matériau bleu clair aux murs, et y disposer une œuvre d'art (sphère) sur un piédestal (cylindre), en utilisant uniquement les formes de base d'UE5.
 
-**Durée estimée :** 1h30 à 3h00
-
-### Phase 0 : Préparation et Installation
+### Partie 0 : Préparation et Installation
 
 #### 0.0 Installation d’Unreal Engine
 1.  Installer Epic Games Launcher : `https://store.epicgames.com/en-US/download`
@@ -24,7 +22,7 @@ weight: 30
 
 ---
 
-### Phase 1 : Construction de la pièce avec les formes de base
+### Partie 1 : Construction de la pièce avec les formes de base
 
 Nous allons utiliser les outils intégrés de l'éditeur pour créer les murs.
 
@@ -74,7 +72,7 @@ Nous allons utiliser les outils intégrés de l'éditeur pour créer les murs.
 
 ---
 
-### Phase 2 : Éclairage et Matériaux de Base
+### Partie 2 : Éclairage et Matériaux de Base
 
 #### Exercice 2.1 : Éclairage de la Galerie
 1.  Cliquez sur **Quickly Add to Project > Lights (Lumières) > Point Light (Point lumineux)**.
@@ -106,7 +104,7 @@ Nous allons utiliser les outils intégrés de l'éditeur pour créer les murs.
 
 ---
 
-### Phase 3 : Mise en scène de la galerie
+### Partie 3 : Mise en scène de la galerie
 
 #### Exercice 3.1 : Création d'un Piédestal
 1.  Cliquez sur **Quickly Add to Project > Shapes (Formes) > Cylinder (Cylindre)**.
